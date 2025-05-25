@@ -4,6 +4,8 @@
     </a>
 </p>
 
+See: <https://git.ari.lt/ari>
+
 # Hello! I'm Arija.
 
 -   Approximately `$current_year - 2007` years old
@@ -26,7 +28,6 @@
     -   Mailvelope: <https://keys.mailvelope.com/pks/lookup?op=get&search=ari@ari.lt>
     -   DNS: `dig d2efaa6dd6ae6136c19944fae329efd3fb2babe1e6eec26982a422aa._openpgpkey.ari.lt OPENPGPKEY`
 -   Pronouns: she/her
--   Want to support? Note: You can either send to my wallet address immediately, or, you can use AnonPay if you want to use other coins which you can swap immediately. If you use AnonPay be quick since the transactions can take some time and expire.
 -   Contacts
     -   Email: <ari@ari.lt>
     -   Matrix: [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt)
