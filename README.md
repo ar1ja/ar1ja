@@ -7,9 +7,8 @@
 See: <https://git.ari.lt/ari>
 
 # Hello! I'm Arija.
-*aka. Ari Archer*
 
-**note:** This account is a migration from GitHub so my old activity doesn't show up :( I've also changed my email address & OpenPGP key identities so yea,
+*aka. Ari Archer*
 
 -   `$current_year - $september_2007` years old
 -   Self-taught open source developer <img src="osi_membership_badge.svg" height="20px" />
