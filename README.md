@@ -11,7 +11,7 @@ See: <https://git.ari.lt/ari>
 *aka. Ari Archer*
 
 -   `$current_year - $september_2007` years old
--   Self-taught open source developer <img src="osi_membership_badge.svg" height="20px" />
+-   Self-taught open source developer
 -   Lithuanian
 -   Languages
     -   Python
