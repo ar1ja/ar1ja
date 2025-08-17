@@ -43,4 +43,13 @@ See: <https://git.ari.lt/ari>
     -   Jabber/XMPP: [ari@ari.lt](xmpp:ari@ari.lt)
     -   Bluesky: [@ari.lt](https://bsky.app/profile/ari.lt)
 
-This won't be updated anymore and I cannot ensure the accuracy of this information by the time you're reading this. I have moved *all* my activity to <https://git.ari.lt/ari>. I have also changed my E-Mail address, meaning my old commits don't appear in the commit graph - I am sorry for any confusion :/
+## Donations
+
+Feel free to tip me crypto:
+
+- Litecoin: `ltc1q3ntxel6er2wez2n6jxxay7u4n0n0z38mfjgsua` (OpenAlias: `ltc@ari.lt`)
+- Monero: `451VZy8FPDXCVvKWkq5cby3V24ApLnjaTdwDgKG11uqbUJYjxQWZVKiiefi4HvFd7haeUtGFRBaxgKNTr3vR78pkMzgJaAZ` (OpenAlias: `xmr@ari.lt`)
+
+This is completely optional!
+
+**This won't be updated anymore and I cannot ensure the accuracy of this information by the time you're reading this. I have moved *all* my activity to <https://git.ari.lt/ari>. I have also changed my E-Mail address, meaning my old commits don't appear in the commit graph - I am sorry for any confusion :/**
