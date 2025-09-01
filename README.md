@@ -42,6 +42,8 @@ See: <https://git.ari.lt/ari>
     -   Email: <ari@ari.lt>
     -   Jabber/XMPP: [ari@ari.lt](xmpp:ari@ari.lt)
     -   Bluesky: [@ari.lt](https://bsky.app/profile/ari.lt)
+    -   Telegram: [@arija64](https://t.me/arija64)
+    -   More on <https://ari.lt/contact>
 
 ## Donations
 
