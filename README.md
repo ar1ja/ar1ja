@@ -43,6 +43,7 @@ See: <https://git.ari.lt/ari>
     -   Jabber/XMPP: [ari@ari.lt](xmpp:ari@ari.lt)
     -   Bluesky: [@ari.lt](https://bsky.app/profile/ari.lt)
     -   Telegram: [@arija64](https://t.me/arija64)
+    -   Signal: [@arija.25](https://signal.me/#eu/prTprRYXB4D1_1pa8q1W4rtmAjO9IaKVGegNYpytb0bZKZ-aQmJHKrIYK0I6F_4a)
     -   More on <https://ari.lt/contact>
 
 ## Donations
