@@ -6,9 +6,9 @@
 
 # Moved to: <https://git.ari.lt/ari>
 
-I HATE how big tech hoards power and tightens control over the tools we rely on. GitHub may be convenient for hosting code, but it sits proudly in a corporate ecosystem that undermines open-source values and user autonomy. Our attempts to plead Microsoft to stop killing GitHub have been fruitless and thereby leaving GitHub enshittified - turning something that used to be code into an AI goon space and social media. Microsoft's obsession with monetisation and data practices rubs me up the wrong way as well, like their AI systems trained on public repositories means creators effectively lose ownership and say over how their work is used, and that disgusts me, though I believe this is, again, a space for calmer discussion, not yelling.
+I HATE how big tech hoards power and tightens control over the tools we rely on. GitHub may be convenient for hosting code, but it sits proudly in a corporate ecosystem that undermines open-source values and user autonomy. Our attempts to plead Microsoft to stop killing GitHub have been fruitless and thereby leaving GitHub enshittified - turning something that used to be code into an AI goon space and social media. Microsoft's obsession with monetisation and data practices rubs me up the wrong way as well, like their AI systems being trained on public repositories means creators effectively lose ownership and say over how their work is used, and that disgusts me, though I believe this is, again, a space for calmer discussion, not yelling.
 
-Anywho, I'm not abandoning open source - I'm stating up for my values. I've moved my projects to a self-hosted Forgejo instance so I'm in charge of licenses, privacy, and governance. If you want access to my code, mirror it on some Forge or sign up for my Forgejo instance at <https://git.ari.lt/>.
+Anywho, I'm not abandoning open source - I'm standing up for my values. I've moved my projects to a self-hosted Forgejo instance so I'm in charge of licenses, privacy, and governance. If you want access to my code, mirror it on some Forge or sign up for my Forgejo instance at <https://git.ari.lt/>.
 
 Let's collaborate without succling on big tech's teets :)
 
