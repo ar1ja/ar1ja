@@ -4,7 +4,7 @@
     </a>
 </p>
 
-See: <https://git.ari.lt/ari>
+## Moved to: <https://git.ari.lt/ari>
 
 # Hello! I'm Arija.
 
