@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Moved to: <https://git.ari.lt/ari>
+# `Location:`[`https://git.ari.lt/ari`](https://git.ari.lt/ari)
 
 I HATE how big tech hoards power and tightens control over the tools we rely on. GitHub may be convenient for hosting code, but it sits proudly in a corporate ecosystem that undermines open-source values and user autonomy. Our attempts to plead Microsoft to stop killing GitHub have been fruitless and thereby leaving GitHub enshittified - turning something that used to be code into an AI goon space and social media. Microsoft's obsession with monetisation and data practices rubs me up the wrong way as well, like their AI systems being trained on public repositories means creators effectively lose ownership and say over how their work is used, and that disgusts me, though I believe this is, again, a space for calmer discussion, not yelling.
 
