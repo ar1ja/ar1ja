@@ -47,7 +47,6 @@ Let's collaborate without suckling on big tech's teets :)
 -   Contacts
     -   Email: <ari@ari.lt>
     -   Jabber/XMPP: [ari@ari.lt](xmpp:ari@ari.lt)
-    -   Bluesky: [@ari.lt](https://bsky.app/profile/ari.lt)
     -   Telegram: [@arija64](https://t.me/arija64)
     -   Signal: [@arija.70](https://signal.me/#eu/ZrfkVlLstLTERi6bzuFiWvmVYVfWxgixmnXGVR46qXnGDKZxGhZCPKMDJU9dVQMx)
     -   More on <https://ari.lt/contact>
